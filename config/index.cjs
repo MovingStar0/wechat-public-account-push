@@ -14,8 +14,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '22922967c17317dd8367176b1d5911f0',
 
-  PROVINCE: '贵州',
-  CITY: '贵阳',
+  PROVINCE: '浙江',
+  CITY: '杭州',
   TIAN_API: {
     // 天行API KEY，如果使用天行API则需要填写此项
     key: 'f075d994abc5a568185b759485bd2a44',
