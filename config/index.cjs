@@ -14,8 +14,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '22922967c17317dd8367176b1d5911f0',
 
-  PROVINCE: '广东',
-  CITY: '珠海',
+  PROVINCE: '四川',
+  CITY: '成都',
 
   TIAN_API: {
     // 天行API KEY，如果使用天行API则需要填写此项
@@ -43,9 +43,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oYmzi6qIkE6Msu4ompFaYn0fxn7Q',
+      id: 'oYmzi6lvSmNlTS2QDA5RJPTLMEUE',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'YBaxBOAMg04nCwbT_WXtNEmuC2lju72uRaPFIv_2j2g',
+      useTemplateId: 'cw8vlewEqd_Bis30b9spmmZBLaQWjpjuJM2X651nrFs',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-15',
       festivals: [
